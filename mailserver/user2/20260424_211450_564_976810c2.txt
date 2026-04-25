@@ -1,0 +1,8 @@
+From: user1@localhost
+To: user2@localhost, user1@localhost
+Date: Fri, 24 Apr 2026 21:14:50 +0100
+Subject: Test Email
+
+Subject: Test multiple
+
+Email envoy� � plusieurs utilisateurs.

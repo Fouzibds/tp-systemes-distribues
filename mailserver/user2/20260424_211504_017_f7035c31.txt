@@ -1,0 +1,8 @@
+From: user1@localhost
+To: user2@localhost
+Date: Fri, 24 Apr 2026 21:15:04 +0100
+Subject: Test Email
+
+Subject: Test reset
+
+Apr�s reset.
